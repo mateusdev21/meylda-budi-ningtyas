@@ -46,8 +46,13 @@ export function ContactSection() {
                 </Text>
 
                 <div className="flex flex-col justify-center gap-4 sm:flex-row">
-                  <Button href="mailto:your@email.com">Send Email</Button>
-                  <Button href="https://instagram.com" variant="outline">
+                  <Button href="mailto:imeldatyasbudi20@gmail.com">
+                    Send Email
+                  </Button>
+                  <Button
+                    href="https://instagram.com/heymey___"
+                    variant="outline"
+                  >
                     Instagram
                   </Button>
                 </div>
@@ -70,8 +75,8 @@ export function ContactSection() {
               <ContactCard
                 icon="phone"
                 title="Phone"
-                value="+62 812 3456 7890"
-                href="tel:+6281234567890"
+                value="+62 812 8759 8845"
+                href="tel:+6281287598845"
               />
             </FadeIn>
 
@@ -79,8 +84,8 @@ export function ContactSection() {
               <ContactCard
                 icon="instagram"
                 title="Instagram"
-                value="@yourusername"
-                href="https://instagram.com"
+                value="@heymey___"
+                href="https://instagram.com/heymey___"
               />
             </FadeIn>
 

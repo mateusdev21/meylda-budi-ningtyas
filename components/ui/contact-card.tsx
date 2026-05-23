@@ -35,7 +35,7 @@ export function ContactCard({ icon, title, value, href }: ContactCardProps) {
         duration: 0.25,
       }}
     >
-      <Link href={href}>
+      <Link href={href} target="_blank" rel="noopener noreferrer">
         <Card
           className="
             group
