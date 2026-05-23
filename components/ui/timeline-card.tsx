@@ -43,7 +43,7 @@ export function TimelineCard({
       className="relative"
     >
       {/* Timeline Dot */}
-      <div className="absolute -left-10.25 top-10 z-10 hidden h-5 w-5 rounded-full border-4 border-background bg-primary shadow-[0_0_30px_rgba(255,140,0,0.6)] lg:block" />
+      <div className="absolute -left-10.25 top-10 z-10 hidden h-5 w-5 rounded-full border-4 border-background bg-primary shadow-primary lg:block" />
 
       <Card className="relative overflow-hidden rounded-4xl border-border/60 bg-card/70 p-8 backdrop-blur-xl">
         {/* Glow */}

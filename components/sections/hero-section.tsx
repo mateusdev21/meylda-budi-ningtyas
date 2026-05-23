@@ -51,7 +51,7 @@ export function HeroSection() {
                   </h1>
 
                   <h2 className="text-2xl font-medium text-foreground/70 md:text-3xl">
-                    Cook Helper & Kitchen Assistant
+                    Cook Helper
                   </h2>
                 </div>
 
