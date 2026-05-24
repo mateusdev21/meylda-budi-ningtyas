@@ -123,7 +123,7 @@ export function HeroSection() {
               >
                 <div className="relative aspect-4/5">
                   <Image
-                    src="/profile.jpg"
+                    src="/profile.jpeg"
                     alt="Cook Helper Portrait"
                     fill
                     priority
