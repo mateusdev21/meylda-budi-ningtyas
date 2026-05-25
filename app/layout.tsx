@@ -17,7 +17,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Cook Helper Portfolio",
+  title: "Meylda Budi Ningtyas",
   description: "Professional cook helper portfolio website",
 };
 
